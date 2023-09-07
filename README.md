@@ -2,7 +2,7 @@
 
 ### Sobre
 
-Oii, meu nome é Ana Clara! Sou desenvolvedora Full-Stack na <a href="https://www.linkedin.com/company/ceoslab/" target="_blank">Céos Lab</a> e estudante de Ciência da Computação na Unisinos. Atualmente estou focando em melhorar minhas habilidades no Front-end, principalmente TypeScript e React, e pretendo, no futuro, seguir meus estudos em Java, Kotlin e AWS.
+Oii, meu nome é Ana Clara! Sou desenvolvedora Full-Stack na <a href="https://www.linkedin.com/company/ceoslab/">Céos Lab</a> e estudante de Ciência da Computação na Unisinos. Atualmente estou focando em melhorar minhas habilidades no Front-end, principalmente TypeScript e React, e pretendo, no futuro, seguir meus estudos em Java, Kotlin e AWS.
 
 ### Minhas Skills
 
