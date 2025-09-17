@@ -2,15 +2,8 @@
 
 Desenvolvedora Full-Stack na <a href="https://www.linkedin.com/company/ceoslab/" target="_blank">Céos Lab</a> e estudante de Ciência da Computação. 
 
-### Minhas Skills
-
-<div style="display: flex; gap: 5px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Icon do Kotlin" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Icon do Java" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Icon do Typescript" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="Icon do Javascript" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="Icon do React" width="40" height="40"/>
-</div>
+Sou desenvolvedora de software desde 2022, mas comecei a programar em 2019. Atualmente, meu foco é no desenvolvimento backend utilizando Java e Kotlin, além de outras tecnologias como Quarkus, Spring, PostgreSQL, Flyway, JUnit e Docker. Também possuo conhecimento em aplicações Web utilizando TypeScript e React, permitindo auxiliar em diferentes camadas quando necessário.
+Vejo o desenvolvimento de software como muito além das hard skills, gosto de me envolver na lógica de negócio, entender os problemas e propor soluções e melhorias técnicas que façam sentido e contribuam para o crescimento do negócio.
 
 #### Contatos:
 
